@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shrek_movies/static/css/main.ca353d7e.css",
+    "main.js": "/shrek_movies/static/js/main.3430ecc3.js",
+    "index.html": "/shrek_movies/index.html",
+    "main.ca353d7e.css.map": "/shrek_movies/static/css/main.ca353d7e.css.map",
+    "main.3430ecc3.js.map": "/shrek_movies/static/js/main.3430ecc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca353d7e.css",
+    "static/js/main.3430ecc3.js"
+  ]
+}
